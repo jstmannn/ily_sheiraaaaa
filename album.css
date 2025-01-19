@@ -9,9 +9,11 @@ body {
 body {
   color: #333;
   font-family: "Cute Font", cursive;
-  background: #3c3c3c;
+  background: linear-gradient(135deg, #ff7eb3 0%, #ff758c 50%, #feb47b 100%);
   overflow: hidden;
 }
+
+
 
 * {
   margin: 0;
